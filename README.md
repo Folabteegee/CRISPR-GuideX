@@ -2,6 +2,7 @@
 An advanced, R-native bioinformatics platform for dynamic CRISPR gRNA design, featuring algorithmic support for next-gen nucleases (hfCas12Max), dual-guide deletion architectures, and bi-directional off-target prediction.
 
 # 🧬 CRISPR GuideX (v3.1)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20246419.svg)](https://doi.org/10.5281/zenodo.20246419)
 
 **CRISPR GuideX** is a production-level, local-first bioinformatics platform designed to accelerate pre-clinical gRNA design and therapeutic genome editing workflows. 
 
